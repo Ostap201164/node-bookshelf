@@ -1,0 +1,79 @@
+[
+  {
+    "id": "bwNmPBn82U3rqxJGnokK2",
+    "title": "Тигролови",
+    "author": "Іван Багряний",
+    "year": 1944,
+    "isRead": true
+  },
+  {
+    "id": "HTIVx6S9KdZd36x7EL88-",
+    "title": "Місто",
+    "author": "Валер'ян Підмогильний",
+    "year": 1928,
+    "isRead": false
+  },
+  {
+    "id": "NpKohwzRXkPKqeEg8v9DT",
+    "title": "Інтернат",
+    "author": "Сергій Жадан",
+    "year": 2017,
+    "isRead": true
+  },
+  {
+    "id": "MVR6lU2_bWrcJSHLEEFJ2",
+    "title": "Felix Austria",
+    "author": "Софія Андрухович",
+    "year": 2014,
+    "isRead": false
+  },
+  {
+    "id": "mB4NjmoqELb5eZV7z9Pno",
+    "title": "Хіба ревуть воли, як ясла повні?",
+    "author": "Панас Мирний",
+    "year": 1880,
+    "isRead": true
+  },
+  {
+    "id": "SQ0AL3-TO7xs4q0bAMBoK",
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "isRead": true
+  },
+  {
+    "id": "SUG4rZ6dySbiO2tuarmXv",
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "year": 1965,
+    "isRead": false
+  },
+  {
+    "id": "X_UZVqTcMpwtg6Mm0yALV",
+    "title": "The Hobbit",
+    "author": "J. R. R. Tolkien",
+    "year": 1937,
+    "isRead": true
+  },
+  {
+    "id": "a8YayfTA1RS0aKf3mznzT",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "year": 2008,
+    "isRead": false
+  },
+  {
+    "id": "boCt80y98df-yHwZPdFQM",
+    "title": "You Don't Know JS Yet",
+    "author": "Kyle Simpson",
+    "year": 2020,
+    "isRead": false
+  },
+  {
+    "id": "8e8rBqat46_2o-ex5a9Pn",
+    "title": "Ворошиловград",
+    "author": "Сергій Жадан",
+    "year": 2010,
+    "isRead": false
+  }
+]
